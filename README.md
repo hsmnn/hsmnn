@@ -25,5 +25,5 @@ My name is Elie Hausmann and I live in Switzerland. I discovered programmation a
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&color=df6d74)
 
 ## 📈 My GitHub stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hausmanne&count_private=true&hide=,prs&show_icons=true&theme=onedark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hausmanne&count_private=true&theme=onedark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hausmanne&hide=,prs&show_icons=true&theme=onedark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hausmanne&theme=onedark"/>
