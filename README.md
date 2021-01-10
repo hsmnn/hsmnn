@@ -1,9 +1,8 @@
 # Hi there 👋
-My name is Elie Hausmann and I live in Switzerland. I discovered programmation at school and I really enjoy to code with any language. My goal is to be, one day, a freelance developer. To do so, I'm learning and practicing...
+My name is Elie Hausmann and I love coding! Currently I code in Java, Python and Ruby on Rails. I also love web development with HTML, CSS and Sass.
 ## 🎯 I’m currently working on
 - My websites portfolio
 - A web app to create and manage meeting minutes
-- The BulleOnAir website
 ## 🌱 I’m currently learning
 - Ruby on rails
 - Python
