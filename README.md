@@ -21,7 +21,7 @@ My name is Elie Hausmann and I love coding! Currently I code in Java, Python and
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=df6d74)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=df6d74)
-![](https://img.shields.io/badge/Server-Digital_Ocean-informational?style=flat&logo=digitalOcean&color=df6d74)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalOcean&color=df6d74)
 ![](https://img.shields.io/badge/Tool-Nginx-informational?style=flat&logo=NGINX&color=df6d74)
 ![](https://img.shields.io/badge/Tool-Ubuntu_Server-informational?style=flat&logo=Ubuntu&color=df6d74)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&color=df6d74)  
