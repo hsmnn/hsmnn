@@ -19,7 +19,3 @@ My name is Elie Hausmann and I love code useful things !
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=df6d74)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&color=df6d74)
 ![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=angularJS&color=df6d74)
-
-## 📈 My GitHub stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsmnn&hide=,prs&show_icons=true&theme=onedark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsmnn&theme=onedark"/>
